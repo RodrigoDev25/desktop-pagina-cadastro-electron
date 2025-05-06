@@ -1,0 +1,11 @@
+{
+  "name": "desktop-pagina-cadastro-electron",
+  "version": "1.0.0",
+  "description": "Pagina de cadastro no electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
