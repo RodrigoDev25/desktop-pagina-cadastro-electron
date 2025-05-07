@@ -27,7 +27,17 @@ button {
     margin-top: 20px ;
     padding: 3px;
 }
+
 button:hover {
     background-color: greenyellow;
     color: red;
 }
+
+ a {
+    color: aliceblue;
+ }
+
+ #logo {
+    width: 50%;
+    
+ }
